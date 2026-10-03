@@ -28,4 +28,5 @@
         header("Location:?");
     }
     ob_end_flush();
+    // Hola mundo ssss
 ?>
